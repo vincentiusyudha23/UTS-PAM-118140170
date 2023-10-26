@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652008099662",
+    "project_id": "tugas-uts-fae99",
+    "storage_bucket": "tugas-uts-fae99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652008099662:android:2f19827513b9eca95ad81f",
+        "android_client_info": {
+          "package_name": "com.example.utspam2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCckbDw7woNdCNAaFw981Cqv9TWRfEPqOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
